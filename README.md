@@ -1,9 +1,9 @@
-# motion_detect_Security_Cam
+# motion_detect_Security_Camera
 
 
 using PIR sensor , Arduino uno , Relay , 5vsupply adapter(for uno) 
 
-making a Basic motion detector ,Close Security cam!
+making a motion sensor, I have built a automatic turning off Security camera , if it detect no motion.
 
 this help's to reduce the power consumption in camera as we are using sleep mode !
 
