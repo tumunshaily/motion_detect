@@ -14,13 +14,20 @@ PIR :
 ![download](https://user-images.githubusercontent.com/32512281/73091784-2bc3f080-3f01-11ea-93ce-dcb2aa1d6f05.jpg)
 
 Arduino Uno :
-![Constant66](https://user-images.githubusercontent.com/32512281/73091847-4b5b1900-3f01-11ea-80eb-3db67531f663.gif)
+
+![51rmayrbsPL _SX466_](https://user-images.githubusercontent.com/32512281/73091855-4eeea000-3f01-11ea-9018-a574df9ada5f.jpg)
+
 
 Relay:
+
+
 ![single-channel-5v-relay-module-sunrobotics-original-imaf8k84asferu9r](https://user-images.githubusercontent.com/32512281/73091850-4dbd7300-3f01-11ea-9faf-8e9b0b0fb83f.jpeg)
 
 CAM:
-![51rmayrbsPL _SX466_](https://user-images.githubusercontent.com/32512281/73091855-4eeea000-3f01-11ea-9018-a574df9ada5f.jpg)
+
+
+![Constant66](https://user-images.githubusercontent.com/32512281/73091847-4b5b1900-3f01-11ea-80eb-3db67531f663.gif)
+
 
 
 
